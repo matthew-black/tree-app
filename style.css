@@ -26,3 +26,7 @@ ul {
   background-color: darksalmon;
   font-family: cursive;
 }
+
+.the-pile > p {
+  font-size: 2em;
+}
