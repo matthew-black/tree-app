@@ -9,16 +9,20 @@ h1 {
 
 ul {
   background-color: aquamarine;
+  font-size: 50px;
 }
 
 #redWood {
   background-color: darkred;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #maple {
   background-color: maroon;
+  font-family: 'Times New Roman', Times, serif
 }
 
 #weepingWillow {
   background-color: darksalmon;
+  font-family: cursive;
 }
