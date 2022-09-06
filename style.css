@@ -7,6 +7,10 @@ h1 {
   font-family: fantasy;
 }
 
+ul {
+  background-color: aquamarine;
+}
+
 #redWood {
   background-color: darkred;
 }
